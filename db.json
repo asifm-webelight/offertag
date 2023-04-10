@@ -25,7 +25,6 @@
     {"id":7, "name": "Makemytrip"},
     {"id":8, "name": "Ixigo"}
   ],
-
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
