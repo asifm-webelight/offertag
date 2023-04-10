@@ -1,5 +1,9 @@
 {
- 
+  "posts": [
+    { "id": 1, "title": "Post 111" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
   "categories":[
     { "id": 1, "category_name": "Movies" },
     { "id": 2, "category_name": "Electronics" },
@@ -20,6 +24,10 @@
     {"id":6, "name": "Bookmyshow"},
     {"id":7, "name": "Makemytrip"},
     {"id":8, "name": "Ixigo"}
+  ],
+
+  "deals":[
+    {"id":1, "product_name": "Helix Timex Metalfit SPO2 smartwatch with Full Metal Bo..", "product_img": "https://www.offertag.in/storage/deal/original/1681114534_EtEXi9f8.jpg", "posted_time": "1 Hour ago", "category": "Watch" ,"actual_price": 4995, "discounted_price": 1199, "discount_pr": 75, "shop_logo": "https://www.offertag.in/storage/shop/small/1519972601_Screen%20Shot%202018-03-02%20at%2011.59.57%20AM.png"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
